@@ -1,0 +1,11 @@
+---
+title: "Said"
+image: Alareny.jpeg
+about:
+  template: jolla
+  
+    
+
+---
+
+With more than 10 years of professional experience in public health including 7 years as a Guinean state civil servant, 4 years as World Health Organization (WHO Guinea) Consultant and 8 years as an actor within Non-Governmental Organizations (NGOs).

@@ -1,0 +1,15 @@
+{
+  "hash": "fbdc0e730994e7c084ccf33bf75bcc87",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Analysis of DHS Data\"\nauthor: \"Said\"\ndate: \"2024-08-18\"\ncategories: [code, analysis, r]\nimage: \"image.jpg\"\n---\n\n\nThis was a project using DHS data. You can find the project [here](https://demolandscapes.info/){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
